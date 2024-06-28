@@ -1,4 +1,4 @@
-We build chatbot for tunisian food delivery using DialogFlow from google <br>
+I built chatbot for tunisian food delivery using DialogFlow from google <br>
 This project covers dialogflow fundamentals such as intents, entities, contexts... <br>
 Here is the interface of DialogFlow when the chatbot creation is done <br>
 ![chatbot](https://github.com/mahdihammi/Chatbot-food-delivery/assets/89527502/ce7fe6b1-6587-4d22-a28b-2ca855d777b6)
