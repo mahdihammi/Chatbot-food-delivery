@@ -14,7 +14,7 @@ Interaction with Mysql database <br>
 
 <br>
 Directory structure
-===================
+=================== <br>
 backend: Contains Python FastAPI backend code <br>
 db: contains the dump of the database. you need to import this into your MySQL db by using MySQL workbench tool <br>
 dialogflow_assets: this has training phrases etc. for our intents <br>
